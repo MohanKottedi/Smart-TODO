@@ -1,0 +1,43 @@
+Design constraints
+
+Shape behavior
+
+Respect human psychology
+
+
+Just names + responsibility:
+
+Task
+
+EisenhowerCategory
+
+StreakEngine
+
+DailyPlanner
+
+PriorityEvaluator
+
+No code. Just thinking.
+
+
+Core Idea
+
+Eisenhower = Urgency × Importance
+
+Your bot suggests, not forces. User can always change it.
+
+Messages based on decay:
+
+Small decay → “You slowed down. Recover today.”
+
+Big decay → “Let’s reset gently. One win today.”
+
+
+
+UI/UX
+
+Moves tasks between quadrants
+
+Tracks streaks
+
+Makes you pause and think
