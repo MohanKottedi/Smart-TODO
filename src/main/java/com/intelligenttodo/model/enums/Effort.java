@@ -1,5 +1,7 @@
-package intelligenttodo.model.enums;
+package com.intelligenttodo.model.enums;
 
-public class Effort {
-    
+public enum Effort {
+    EASY,
+    MEDIUM,
+    HARD
 }
