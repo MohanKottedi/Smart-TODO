@@ -13,6 +13,7 @@ public class PriorityCalculator {
      * Calculates a numeric priority score based on
      * deadline, importance, and assignment.
      */
+    //calc method
     public int calculateScore(Task task) {
 
         int score = 0;
